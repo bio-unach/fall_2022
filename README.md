@@ -1,2 +1,2 @@
 # fall_2022
-Materiales del curso de Nociones de Bioinformática Microbiana
+Materiales del curso Conceptos Básicos de Bioinformática
