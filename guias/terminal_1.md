@@ -29,7 +29,8 @@ Esto abrirá, _en la misma terminal de linux_ una hoja nueva para escribir.
 
 9.- Guarde el archivo presionando los botones `Ctrl`+`o` (control y la letra o).
 El programa ***nano*** le pedirá dar un nombre a este archivo, escriba _miproteina.fasta_ (sin tildes). Luego presione el botón `Enter` de su teclado.
-¡Felicitaciones! Ha guardado su primer gen en formato fasta, en este caso una proteína.
+¡Felicitaciones! Ha guardado su primer gen en formato fasta, en este caso una proteína. Con `Ctrl`+`x` puede salir de ese archivo nano.
+Verifique su archivo recién creado con `ll`.
 
 Nota: El formato fasta es muy sencillo, se compone de un _header_ y una secuencia (combinación de letras).
 El _header_ (del inglés "encabezado") indica el nombre de la secuencia, y en la línea de abajo va la secuencia misma.
