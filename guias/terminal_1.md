@@ -1,8 +1,8 @@
-#terminal_1
+# terminal_1
 
-##Abra una terminal con un sistema operativo basado en linux para realizar estos ejercicios básicos.
+## Abra una terminal con un sistema operativo basado en linux para realizar estos ejercicios básicos.
 
-###Trabajo en _directorios_:
+### Trabajo en _directorios_:
 
 1.- Identifique en directorio donde se encuentra trabajando con el comando `pwd`. Este comando le dice dónde usted está y qué _ruta_ lleva a ese lugar.
 La _ruta_ es la serie de carpetas o directorios que están antes. Por ejemplo: /carpeta1/carpeta2. Lo más probable es que en su caso diga /home/usuario,
@@ -18,7 +18,7 @@ identifiquen ese directorio. Mejor escriba `mkdir tfc_2022`.
 
 5.- Ingrese al directorio que acaba de hacer con el comando `cd`. Siguiendo con el ejemplo anterior, sería `cd tfc`.
 
-###Trabajo básico con archivos en formato fasta
+### Trabajo básico con archivos en formato fasta
 
 6.- Estando **dentro** del directorio que acaba de hacer, abra el editor de texto plano ***nano*** con el comando `nano`.
 Esto abrirá, _en la misma terminal de linux_ una hoja nueva para escribir.
