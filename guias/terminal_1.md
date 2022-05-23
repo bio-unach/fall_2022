@@ -23,7 +23,7 @@ identifiquen ese directorio. Mejor escriba `mkdir tfc_2022`.
 6.- Estando **dentro** del directorio que acaba de hacer, abra el editor de texto plano ***nano*** con el comando `nano`.
 Esto abrirá, _en la misma terminal de linux_ una hoja nueva para escribir.
 
-7.- Copie la siguiente secuencia de aminoácidos de una [proteína del ribosoma de la bacteria llamada _Borrelia anserina_](https://www.ncbi.nlm.nih.gov/protein/AHX39227.1?report=fasta) stá escrita en formato fasta):
+7.- Copie la siguiente secuencia de aminoácidos de una [proteína del ribosoma de la bacteria llamada _Borrelia anserina_](https://www.ncbi.nlm.nih.gov/protein/AHX39227.1?report=fasta) (escrita en formato fasta):
 
 8.- Pegue esta secuencia en la terminal donde tiene abierto ***nano***.
 
