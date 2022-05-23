@@ -32,7 +32,7 @@ El programa ***nano*** le pedirá dar un nombre a este archivo, escriba _miprote
 ¡Felicitaciones! Ha guardado su primer gen en formato fasta, en este caso una proteína. Con `Ctrl`+`x` puede salir de ese archivo nano.
 Verifique su archivo recién creado con `ll`.
 
-Nota: El formato fasta es muy sencillo, se compone de un _header_ (indicado con >)y una secuencia (combinación de letras).
+Nota: El formato fasta es muy sencillo, se compone de un _header_ (indicado con >) y una secuencia (combinación de letras).
 El _header_ (del inglés "encabezado") indica el nombre de la secuencia, y en la línea de abajo va la secuencia misma.
 
 10. Repita desde el número 7 con la seguiente [secuencia de DNA](https://www.ncbi.nlm.nih.gov/nuccore/NR_024570.1/?report=fasta) ribosomal de la bacteria
