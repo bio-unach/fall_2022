@@ -48,7 +48,9 @@ cat_R1_metagenoma_3.fastq.gz cat_R2_metagenoma_3.fastq.gz
 
 ### Trabajo con PhyloFLash
 
-11.- `phyloFlash.pl -lib metagenoma_x -CPUs 10 -dbhome /media/ddbb/pf/138.1 -almosteverything -read1 reads_F.fq.gz -read2 reads_R.fq.gz`
+11.- `mamba activate pf`
+
+12.- `phyloFlash.pl -lib metagenoma_x -CPUs 10 -dbhome /media/ddbb/pf/138.1 -almosteverything -read1 reads_F.fq.gz -read2 reads_R.fq.gz`
 
 `-lib` *NAME*
             Library *NAME* to use for output file. The name must be one word
